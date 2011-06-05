@@ -8,7 +8,7 @@ Getting high the easy way
 * touch README.md
 * git add README.md
 * git commit -m 'high commit'
-* git remote add origin git@github.com:bilalhusain/mushroom.git
+* git remote add origin git@github.com:bilalhusain/$newRepoName.git
 * git push -u origin master
 
 *Someday, I'll be a contibuter on dongml*
